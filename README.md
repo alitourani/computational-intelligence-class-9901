@@ -6,7 +6,7 @@ This repository contains the course contents and final projects of the course **
 - **TA:** To be defined
 - **Credits:** 3
 - **Time**: Mondays, 15:30 – 17:00, 17:15 – 18:30
-- **Location**: Faculty of Engineering, class #15
+- **Location**: classes are held online due to COVID-19.
 
 ### Course Contents
 - Introduction to Computational Intelligence and Soft Computing
