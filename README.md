@@ -3,7 +3,9 @@ This repository contains the course contents and final projects of the course **
 
 ### Administrative
 - **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/downloadable-files/ "webpage") for slides and videos)
-- **TA:** To be defined
+- **TA:**
+	- Amir Abbasi
+	- Reza Khan Mohammadi
 - **Credits:** 3
 - **Time**: Mondays, 15:30 – 17:00, 17:15 – 18:30
 - **Location**: classes are held online due to COVID-19.
