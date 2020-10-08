@@ -7,8 +7,17 @@ This repository contains the course contents and final projects of the course **
 	- [Amir Abbasi](mailto:amir.abbasi.rose@gmail.com "Amir Abbasi")
 	- [Reza Khan Mohammadi](https://ledengary.github.io/ "Reza Khan Mohammadi")
 - **Credits:** 3
-- **Time**: Mondays, 15:30 – 17:00, 17:15 – 18:30
-- **Location**: classes are held online due to COVID-19.
+- **Time**: Tuesdays, 15:30 – 17:00, 17:15 – 18:30
+- **Location**: This semester is held online due to COVID-19. E-Contents are being shared in the [University of Guilan's E-Learning website](https://ecent2.guilan.ac.ir/ "University of Guilan's E-Learning website"). Online (live) classes are held every second Tuesdays according to the below table.
+
+| # | Date |
+| ------------ | ------------ |
+| 1 | ~~15th Mehr 1399 (6th October 2020) – 17:00 to 18:30~~ |
+| 2 | 6th Aban 1399 (27th October 2020) – 17:00 to 18:30 |
+| 3 | 20th Aban 1399 (10th November 2020) – 17:00 to 18:30 |
+| 4 | 4th Azar 1399 (24th November 2020) – 17:00 to 18:30 |
+| 5 | 18th Azar 1399 (8th December 2020) – 17:00 to 18:30 |
+
 
 ### Course Contents
 - Introduction to Computational Intelligence and Soft Computing
