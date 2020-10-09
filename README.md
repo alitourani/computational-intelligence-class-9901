@@ -28,4 +28,7 @@ This repository contains the course contents and final projects of the course **
 Note: get access to the presentation slides through this link.
 
 ### Project Titles
-To be defined ...
+| # | Project title | Member(s) |
+| ------------ | ------------ | ------------ |
+| 1 | TBD | 960122680012 |
+
