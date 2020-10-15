@@ -25,7 +25,7 @@ This repository contains the course contents and final projects of the course **
 - Cluster Analysis
 - Fuzzy Logic and Calculations
 - Evolutionary Computation
-Note: get access to the presentation slides through this link.
+
 
 ### Project Titles
 | # | Project title | Member(s) |
