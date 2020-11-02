@@ -40,5 +40,6 @@ This repository contains the course contents and final projects of the course **
 | 8 | TBD | 960122680074, 9612268100 |
 | 9 | TBD | 960122681004, 960122681015, 950122680034 |
 | 10 | TBD | 960122680119 |
+| 11 | TBD | 950122610006 |
 
 
