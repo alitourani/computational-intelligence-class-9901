@@ -14,7 +14,7 @@ This repository contains the course contents and final projects of the course **
 | ------------ | ------------ |
 | 1 | ~~15th Mehr 1399 (6th October 2020) – 17:00 to 18:30~~ |
 | 2 | ~~6th Aban 1399 (27th October 2020) – 17:00 to 18:30~~ |
-| 3 | 20th Aban 1399 (10th November 2020) – 17:00 to 18:30 |
+| 3 | ~~20th Aban 1399 (10th November 2020) – 17:00 to 18:30~~ |
 | 4 | 4th Azar 1399 (24th November 2020) – 17:00 to 18:30 |
 | 5 | 18th Azar 1399 (8th December 2020) – 17:00 to 18:30 |
 
