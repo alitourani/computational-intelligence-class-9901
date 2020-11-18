@@ -32,7 +32,7 @@ This repository contains the course contents and final projects of the course **
 | ------------ | ------------ | ------------ |
 | 1 | Flappy bird game using Genetics Algorithm | 960122680012 |
 | 2 | Recurrent Neural Network (RNN) | 960122680007, 960122681005 |
-| 3 | TBD | 9712268102, 9612268101, 960122680113 |
+| 3 | Support Vector Machines (SVM) | 9712268102, 9612268101, 960122680113 |
 | 4 | Generative Adversarial Networks | 960122680003, 960122680017, 960122681003 |
 | 5 | Radial Basis Network (RBN) | 960122680039, 960122680006 |
 | 6 | TBD | 960122681017 |
