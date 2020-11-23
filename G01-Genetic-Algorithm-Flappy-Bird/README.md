@@ -1,7 +1,9 @@
 # Flappy bird game using Genetics Algorithm
 
 ## Team Members:
-- Sahar Fakhrieh Kashan (960122680012)
+- Rahim Ebrahim Nejad (9712268102)
+- Amir Hossein Ghods (9612268101)
+- Mohammad Pourghanbar Moghaddam (960122680113)
 
 ## Project Description:
 Add description here ...
