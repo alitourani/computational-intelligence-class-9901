@@ -1,4 +1,4 @@
-# Flappy bird game using Genetics Algorithm
+# Support Vector Machines (SVM)
 
 ## Team Members:
 - Rahim Ebrahim Nejad (9712268102)
