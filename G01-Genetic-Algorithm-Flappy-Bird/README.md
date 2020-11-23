@@ -1,9 +1,7 @@
-# Support Vector Machines (SVM)
+# Implementing Flappy bird game using Genetics Algorithm
 
 ## Team Members:
-- Rahim Ebrahim Nejad (9712268102)
-- Amir Hossein Ghods (9612268101)
-- Mohammad Pourghanbar Moghaddam (960122680113)
+- Sahar Fakhrieh Kashan (960122680012)
 
 ## Project Description:
 Add description here ...
