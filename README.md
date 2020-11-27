@@ -22,7 +22,7 @@ This repository contains the course contents and final projects of the course **
 | 1 | ~~15th Mehr 1399 (6th October 2020) – 17:00 to 18:30~~ |
 | 2 | ~~6th Aban 1399 (27th October 2020) – 17:00 to 18:30~~ |
 | 3 | ~~20th Aban 1399 (10th November 2020) – 17:00 to 18:30~~ |
-| 4 | 4th Azar 1399 (24th November 2020) – 17:00 to 18:30 |
+| 4 | ~~4th Azar 1399 (24th November 2020) – 17:00 to 18:30~~ |
 | 5 | 18th Azar 1399 (8th December 2020) – 17:00 to 18:30 |
 
 
@@ -38,7 +38,7 @@ This repository contains the course contents and final projects of the course **
 | 1 | Flappy bird game using Genetics Algorithm | 960122680012 |
 | 2 | Recurrent Neural Network (RNN) | 960122680007, 960122681005 |
 | 3 | Support Vector Machines (SVM) | 9712268102, 9612268101, 960122680113 |
-| 4 | Generative Adversarial Networks | 960122680003, 960122680017, 960122681003 |
+| 4 | Generative Adversarial Networks (GAN) | 960122680003, 960122680017, 960122681003 |
 | 5 | Radial Basis Network (RBN) | 960122680039, 960122680006 |
 | 6 | TBD | 960122681017 |
 | 7 | Deep Convolutional Network (DCN) | 960122680033, 960122680041 |
