@@ -39,8 +39,8 @@ This repository contains the course contents and final projects of the course **
 | 2 | Recurrent Neural Network (RNN) | 960122680007, 960122681005 |
 | 3 | Support Vector Machines (SVM) | 9712268102, 9612268101, 960122680113 |
 | 4 | Generative Adversarial Networks (GAN) | 960122680003, 960122680017, 960122681003 |
-| 5 | Radial Basis Network (RBN) | 960122680039, 960122680006 |
-| 6 | Long/Short Term Memory (LSTM) | 960122681017 |
+| 5 | Radial Basis Network (RBN) | 960122680039, 960122680006, 960122681017 |
+| 6 | Long/Short Term Memory (LSTM) | - |
 | 7 | Deep Convolutional Network (DCN) | 960122680033, 960122680041 |
 | 8 | Liquid State Machine (LSM) | 960122680074, 9612268100 |
 | 9 | Deep Residual Network (DRN) | 960122681004, 960122681015, 950122680034 |
