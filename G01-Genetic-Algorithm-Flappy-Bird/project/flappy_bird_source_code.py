@@ -182,7 +182,7 @@ def fitness(genomes, config):
     while run:
         clock.tick(30)
 
-        if score == 10:
+        if score == 50:
             print('**********\nwe achieved the goal\n**********')
             run = False
             pygame.quit()
