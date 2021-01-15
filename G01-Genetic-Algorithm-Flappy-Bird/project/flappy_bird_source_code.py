@@ -183,7 +183,7 @@ def fitness(genomes, config):
         clock.tick(30)
 
         if score == 10:
-            print('**********\nbird in generation = ' + gen + ' achieved the goal\n**********')
+            print('**********\nwe achieved the goal\n**********')
             run = False
             pygame.quit()
             quit()
