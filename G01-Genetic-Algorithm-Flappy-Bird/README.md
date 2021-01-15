@@ -1,10 +1,9 @@
-# Implementing Flappy bird game using Genetics Algorithm
+# Project name : Implementing Flappy bird game using Genetics Algorithm
 
 ## Team Members:
 - Sahar Fakhrieh Kashan (960122680012)
 ------------
-#Project name : flappy brid using genetic algorithm
-------------
+
 
 ## Description:
 this project is about AI learning how to play flappy bird with genetic algorithm.
