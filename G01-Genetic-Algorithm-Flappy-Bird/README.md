@@ -20,6 +20,7 @@ In the current implementation of NEAT-Python, a population of individual [genome
 
 1. [Node](https://neat-python.readthedocs.io/en/latest/glossary.html#term-node) genes, each of which specifies a single neuron.
 2. [Connection](https://neat-python.readthedocs.io/en/latest/glossary.html#term-connection) genes, each of which specifies a single connection between neurons.
+
 To evolve a solution to a problem, the user must provide a fitness function which computes a single real number indicating the quality of an individual genome: better ability to solve the problem means a higher score. The algorithm progresses through a user-specified number of generations, with each generation being produced by reproduction (either sexual or asexual) and mutation of the most fit individuals of the previous generation.
 
 for more informarion you can read [NEAT Overview](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
@@ -32,6 +33,7 @@ for running this project you need to install : *NEAT* and *pygame *
 for that you have to run these two commands in cmd :
 
 >pip install pygame
+
 >pip install neat-python
 
 
@@ -56,12 +58,19 @@ and if you still have doubts look at the comments in the [source code](https://g
 ## Photos of the game environment :
 > When you start to run the game
 
+
 ![1](https://user-images.githubusercontent.com/71727363/104791728-09ca1a80-57b1-11eb-8f5a-6bfae69e6c6e.PNG)
+
+
 
 >After a while (last seconds of the game)
 
+
 ![2](https://user-images.githubusercontent.com/71727363/104791838-5c0b3b80-57b1-11eb-8e88-0251be64e764.PNG)
 
+
+
 >After the game
+
 
 ![3](https://user-images.githubusercontent.com/71727363/104791931-c623e080-57b1-11eb-9172-bcbce59716d2.PNG)
