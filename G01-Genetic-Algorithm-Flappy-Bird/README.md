@@ -28,7 +28,7 @@ for more informarion you can read [NEAT Overview](https://neat-python.readthedoc
 ------------
 
 ## Installation: 
-for running this project you need to install : *NEAT* and *pygame *
+for running this project you need to install : *NEAT* and *pygame*
 
 for that you have to run these two commands in cmd :
 
