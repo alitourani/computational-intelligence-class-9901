@@ -41,17 +41,17 @@ for that you have to run these two commands in cmd :
 ------------
 
 ## Instructions :
-1.  install modules written in [installation](https://github.com/alitourani/computational-intelligence-class-9901/tree/master-1/G01-Genetic-Algorithm-Flappy-Bird#instructions-) section
+1.  install modules written in [installation](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G01-Genetic-Algorithm-Flappy-Bird#instructions-) section
 2. Simply run flappy_bird.py and watch an AI start training itself to play the game of flappy bird!
 
 ------------
 
 ## Best way to understand :
-first, play the [video](https://github.com/alitourani/computational-intelligence-class-9901/blob/master-1/G01-Genetic-Algorithm-Flappy-Bird/running%20flappy%20Bird%20.mp4)
+first, play the [video](https://github.com/alitourani/computational-intelligence-class-9901/blob/master/G01-Genetic-Algorithm-Flappy-Bird/running%20flappy%20Bird%20.mp4)
 
-second, read the[ pdf](https://github.com/alitourani/computational-intelligence-class-9901/blob/master-1/G01-Genetic-Algorithm-Flappy-Bird/flappy%20bird%20report.pdf)
+second, read the[ pdf](https://github.com/alitourani/computational-intelligence-class-9901/blob/master/G01-Genetic-Algorithm-Flappy-Bird/flappy%20bird%20report.pdf)
 
-and if you still have doubts look at the comments in the [source code](https://github.com/alitourani/computational-intelligence-class-9901/blob/master-1/G01-Genetic-Algorithm-Flappy-Bird/project/flappy_bird_source_code.py)
+and if you still have doubts look at the comments in the [source code](https://github.com/alitourani/computational-intelligence-class-9901/blob/master/G01-Genetic-Algorithm-Flappy-Bird/project/flappy_bird_source_code.py)
 
 ------------
 
