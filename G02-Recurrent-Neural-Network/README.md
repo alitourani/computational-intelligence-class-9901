@@ -23,7 +23,7 @@ If you would like to know more about pytorch click [here](https://github.com/pyt
 ## pictures :
 To better understand these are examples of images that are given to the neural network for learning and testing :
 
-[1](https://github.com/alitourani/computational-intelligence-class-9901/blob/master/G02-Recurrent-Neural-Network/PHDCw.png)
+[1](https://github.com/alitourani/computational-intelligence-class-9901/blob/master/G02-Recurrent-Neural-Network/PHDCw.png?raw=true)
 
 
 [2](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftorres.ai%2Fdeep-learning-inteligencia-artificial-keras%2F&psig=AOvVaw3kmBEuRofL8_GIuJCFN1jX&ust=1610971650826000&source=images&cd=vfe&ved=2ahUKEwjQiZmZ96LuAhUDzBQKHaAUCe0QjRx6BAgAEAc)
