@@ -16,7 +16,9 @@ In order for the model to be able to practice on our data set, a fully connected
  
 
 Now we randomly select ten photos from the train set and give them to the model to recognize their category, and out of ten, our model gives the correct answer to nine:
+[1] (https://s17.picofile.com/file/8421870926/6B46E416_4113_457B_9DE0_F63503AED5F4.jpeg)
 
 
+## Result:
 
- 
+ [2] (https://s17.picofile.com/file/8421871868/C78726D7_1C64_4B14_AC39_E5B461BEA65A.jpeg)
