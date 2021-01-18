@@ -1,4 +1,4 @@
-# Implementing Flappy bird game using Genetics Algorithm
+# Long/Short Term Memory (LSTM)
 
 ## Team Members:
 
