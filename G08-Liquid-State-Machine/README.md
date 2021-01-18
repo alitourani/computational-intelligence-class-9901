@@ -14,13 +14,13 @@ In this project, we intend to generate a neural network with the help of keras a
 LSTM stands for long short term memory. It is a model or architecture that extends the memory of recurrent neural networks. Typically, recurrent neural networks have ‘short term memory’ in that they use persistent previous information to be used in the current neural network. Essentially, the previous information is used in the present task. That means we do not have a list of all of the previous information available for the neural node.
 for more information, check this link out [here]( https://hub.packtpub.com/what-is-lstm/) 
 
-#dataset
+## dataset:
 
 Our data file is a csv file in which the information inside is separated by commas.
 Information in the dataset is available in various Nasdaq markets for 3 consecutive years.
 this a sample of dataset[here](
 
-## installation
+## installation:
 
 For running this project you need to install: Jupyter notebook, tenserflow and keras
 Print these commands in cmd for installation:
@@ -31,7 +31,7 @@ for the rest Libraries, if you need to install do the same.
 
 
 
-## System guess chart and actual output
+## System guess chart and actual output:
  
 
 72 / 5000
