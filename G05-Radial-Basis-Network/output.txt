@@ -1,0 +1,134 @@
+
+Iteration 1, loss = 1.67381382
+Iteration 2, loss = 1.17147718
+Iteration 3, loss = 1.11739167
+Iteration 4, loss = 1.08979858
+Iteration 5, loss = 1.07010852
+Iteration 6, loss = 1.05946393
+Iteration 7, loss = 1.04993203
+Iteration 8, loss = 1.04764046
+Iteration 9, loss = 1.04504798
+Iteration 10, loss = 1.04076541
+hidden layer size: (5,)
+Training set score: 0.662547619047619
+Test set score: 0.6575555555555556
+Iteration 1, loss = 0.42984217
+Iteration 2, loss = 0.23713786
+Iteration 3, loss = 0.20228979
+Iteration 4, loss = 0.17970531
+Iteration 5, loss = 0.16659524
+Iteration 6, loss = 0.15285271
+Iteration 7, loss = 0.14572907
+Iteration 8, loss = 0.13820857
+Iteration 9, loss = 0.13066468
+Iteration 10, loss = 0.12252525
+hidden layer size: (20,)
+Training set score: 0.9637142857142857
+Test set score: 0.9470555555555555
+Iteration 1, loss = 0.36709766
+Iteration 2, loss = 0.17716553
+Iteration 3, loss = 0.13326279
+Iteration 4, loss = 0.10571787
+Iteration 5, loss = 0.08986470
+Iteration 6, loss = 0.07849727
+Iteration 7, loss = 0.06804101
+Iteration 8, loss = 0.06093909
+Iteration 9, loss = 0.05605961
+Iteration 10, loss = 0.04680192
+hidden layer size: (50,)
+Training set score: 0.9895952380952381
+Test set score: 0.9672777777777778
+Iteration 1, loss = 0.34970473
+Iteration 2, loss = 0.15056354
+Iteration 3, loss = 0.10617360
+Iteration 4, loss = 0.08045704
+Iteration 5, loss = 0.06509990
+Iteration 6, loss = 0.05309851
+Iteration 7, loss = 0.04385444
+Iteration 8, loss = 0.03685175
+Iteration 9, loss = 0.03119245
+Iteration 10, loss = 0.02564351
+hidden layer size: (100,)
+Training set score: 0.9956904761904762
+Test set score: 0.9728888888888889
+Iteration 1, loss = 0.33273779
+Iteration 2, loss = 0.14214508
+Iteration 3, loss = 0.09767525
+Iteration 4, loss = 0.07179129
+Iteration 5, loss = 0.05658718
+Iteration 6, loss = 0.04478736
+Iteration 7, loss = 0.03573889
+Iteration 8, loss = 0.02720213
+Iteration 9, loss = 0.02206393
+Iteration 10, loss = 0.01726628
+hidden layer size: (200,)
+Training set score: 0.9976428571428572
+Test set score: 0.9745
+Iteration 1, loss = 0.38579417
+Iteration 2, loss = 0.17324373
+Iteration 3, loss = 0.13710413
+Iteration 4, loss = 0.11582162
+Iteration 5, loss = 0.10842988
+Iteration 6, loss = 0.09335412
+Iteration 7, loss = 0.08347670
+Iteration 8, loss = 0.07516411
+Iteration 9, loss = 0.07223539
+Iteration 10, loss = 0.06471411
+hidden layer size: (30, 30)
+Training set score: 0.983904761904762
+Test set score: 0.9623333333333334
+Iteration 1, loss = 0.37379964
+Iteration 2, loss = 0.14699610
+Iteration 3, loss = 0.11002939
+Iteration 4, loss = 0.08916205
+Iteration 5, loss = 0.07618790
+Iteration 6, loss = 0.06573254
+Iteration 7, loss = 0.05517457
+Iteration 8, loss = 0.05048748
+Iteration 9, loss = 0.04504944
+Iteration 10, loss = 0.04153793
+hidden layer size: (50, 50)
+Training set score: 0.9875238095238095
+Test set score: 0.9646666666666667
+Iteration 1, loss = 0.35043832
+Iteration 2, loss = 0.12669327
+Iteration 3, loss = 0.09077066
+Iteration 4, loss = 0.06770737
+Iteration 5, loss = 0.05219574
+Iteration 6, loss = 0.04314804
+Iteration 7, loss = 0.03180155
+Iteration 8, loss = 0.02681003
+Iteration 9, loss = 0.02533227
+Iteration 10, loss = 0.02089782
+hidden layer size: (100, 100)
+Training set score: 0.9960714285714286
+Test set score: 0.9747222222222223
+Iteration 1, loss = 0.32193109
+Iteration 2, loss = 0.11955935
+Iteration 3, loss = 0.08232355
+Iteration 4, loss = 0.06210475
+Iteration 5, loss = 0.04708721
+Iteration 6, loss = 0.03376179
+Iteration 7, loss = 0.02618095
+Iteration 8, loss = 0.01846721
+Iteration 9, loss = 0.01598246
+Iteration 10, loss = 0.01086746
+hidden layer size: (150, 150)
+Training set score: 0.9977380952380952
+Test set score: 0.9758333333333333
+Iteration 1, loss = 0.32196267
+Iteration 2, loss = 0.11381534
+Iteration 3, loss = 0.07718631
+Iteration 4, loss = 0.05492747
+Iteration 5, loss = 0.04073152
+Iteration 6, loss = 0.02837253
+Iteration 7, loss = 0.02374145
+Iteration 8, loss = 0.01811441
+Iteration 9, loss = 0.01180065
+Iteration 10, loss = 0.01059166
+hidden layer size: (200, 200)
+Training set score: 0.9966190476190476
+
+
+
+Test set score: 0.9746111111111111
