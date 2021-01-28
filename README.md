@@ -29,13 +29,6 @@ This page contains the course materials and final projects, developed at the **U
 | 5 | ~~18th Azar 1399 (8th December 2020) – 17:00 to 18:30~~ |
 
 
-## 🔗 Useful Links
-
-- [Introduction to Pytorch](https://www.aparat.com/v/EMw10?playlist=648957 "Introduction to Pytorch")
-- [Binary AND Neural Network](https://colab.research.google.com/drive/1uXsT5gbKNawp1QBRy03FhN0KQmW_KRZN?usp=sharing "Binary AND Neural Network")
-- [Simple Convolutional Neural Network](https://colab.research.google.com/drive/13IZ7Z0SEkx2ikEE5sNGm3NQbcKlOxaG7?usp=sharing "Simple Convolutional Neural Network"))
-
-
 ## 🔨 Project Titles
 
 | # | Project title | Member(s) |
@@ -51,3 +44,9 @@ This page contains the course materials and final projects, developed at the **U
 | 9 | [Deep Residual Network (DRN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G09-Deep-Residual-Network "Deep Residual Network (DRN)") | 960122681004, 960122681015, 950122680034 |
 | 10 | [Inception Architecture for Image Classificatio](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G10-Inception-Architecture-Image-Classification "Inception Architecture for Image Classificatio")n | 960122680119 |
 | 11 | [Self-Organizing Map (SOM)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G11-Self-Organizing-Map "Self-Organizing Map (SOM)") | 950122610006 |
+
+## 🔗 Useful Links
+
+- [Introduction to Pytorch](https://www.aparat.com/v/EMw10?playlist=648957 "Introduction to Pytorch")
+- [Binary AND Neural Network](https://colab.research.google.com/drive/1uXsT5gbKNawp1QBRy03FhN0KQmW_KRZN?usp=sharing "Binary AND Neural Network")
+- [Simple Convolutional Neural Network](https://colab.research.google.com/drive/13IZ7Z0SEkx2ikEE5sNGm3NQbcKlOxaG7?usp=sharing "Simple Convolutional Neural Network"))
