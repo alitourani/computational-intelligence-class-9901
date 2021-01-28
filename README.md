@@ -1,21 +1,24 @@
 # Computational Intelligence 9901
-This repository contains the course contents and final projects of the course **Computational Intelligence** lectured at the University of Guilan in Fall 2020-21. This course presents an introduction to the methods and algorithms of Computational Intelligence. Topics covered include: Soft computing, Artificial Neural Networks (ANNs), Fuzzy logic, Evolutionary computation, and swarm intelligence. We will study the structure of famous CI methods, such as ant colony, genetic algorithm, perceptron network, and deep learning. It should be added that due to the spread of the coronavirus (COVID-19), classes are held online through [this](https://ecent.guilan.ac.ir/ "this") link. 
 
-### Course Contents
+This page contains the course materials and final projects, developed at the **University of Guilan** for **Computational Intelligence** course (code 12262111) in **Fall 2020** semester. The course presents an introduction to the methods and algorithms of Computational Intelligence and focuses on the functional concepts and applicable approaches. The topics covered in this course include Soft computing, Artificial Neural Networks (ANNs), Fuzzy logic, Evolutionary computation, and swarm intelligence. We will study the structure of famous CI methods, such as ant colony, genetic algorithm, perceptron network, and deep learning.
+
+## 📚 Course Contents
+
 - Introduction to Computational Intelligence and Soft Computing
 - Artificial Neural Networks
 - Cluster Analysis
 - Fuzzy Logic and Calculations
 - Evolutionary Computation
 
-### Administrative
-- **Instructor:** Ali Tourani ([webpage](http://alitourani.ir/downloadable-files/ "webpage") for slides and videos)
-- **TA:**
+## 👨‍🏫 Administrative
+
+- **Instructor:** [Ali Tourani](http://alitourani.ir/downloadable-files/ "Ali Tourani")
+- **TAs:**
 	- [Amir Abbasi](mailto:amir.abbasi.rose@gmail.com "Amir Abbasi")
 	- [Reza Khan Mohammadi](https://ledengary.github.io/ "Reza Khan Mohammadi")
 - **Credits:** 3
 - **Time**: Tuesdays, 15:30 – 17:00, 17:15 – 18:30
-- **Location**: This semester is held online due to COVID-19. E-Contents are being shared in the [University of Guilan's E-Learning website](https://ecent2.guilan.ac.ir/ "University of Guilan's E-Learning website"). Online (live) classes are held every second Tuesdays according to the below table.
+- **Location**: This semester, classes are held online due to the spread of COVID-19. E-Contents and videos are being continuously shared and updated on the [University of Guilan E-Learning website](https://ecent2.guilan.ac.ir/ "University of Guilan's E-Learning website"). Online (live) classes are held **every second Tuesdays** according to the the table below.
 
 | # | Date |
 | ------------ | ------------ |
@@ -26,13 +29,15 @@ This repository contains the course contents and final projects of the course **
 | 5 | ~~18th Azar 1399 (8th December 2020) – 17:00 to 18:30~~ |
 
 
-### Useful Links for Projects
-- Introduction to Pytorch ([link](https://www.aparat.com/v/EMw10?playlist=648957 "link"))
-- Binary AND Neural Network ([link](https://colab.research.google.com/drive/1uXsT5gbKNawp1QBRy03FhN0KQmW_KRZN?usp=sharing "link"))
-- Simple Convolutional Neural Network ([link](https://colab.research.google.com/drive/13IZ7Z0SEkx2ikEE5sNGm3NQbcKlOxaG7?usp=sharing "link"))
+## 🔗 Useful Links
+
+- [Introduction to Pytorch](https://www.aparat.com/v/EMw10?playlist=648957 "Introduction to Pytorch")
+- [Binary AND Neural Network](https://colab.research.google.com/drive/1uXsT5gbKNawp1QBRy03FhN0KQmW_KRZN?usp=sharing "Binary AND Neural Network")
+- [Simple Convolutional Neural Network](https://colab.research.google.com/drive/13IZ7Z0SEkx2ikEE5sNGm3NQbcKlOxaG7?usp=sharing "Simple Convolutional Neural Network"))
 
 
-### Project Titles
+## 🔨 Project Titles
+
 | # | Project title | Member(s) |
 | ------------ | ------------ | ------------ |
 | 1 | [Flappy bird game using Genetics Algorithm](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G01-Genetic-Algorithm-Flappy-Bird "Flappy bird game using Genetics Algorithm") | 960122680012 |
