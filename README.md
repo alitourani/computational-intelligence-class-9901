@@ -35,14 +35,14 @@ This repository contains the course contents and final projects of the course **
 ### Project Titles
 | # | Project title | Member(s) |
 | ------------ | ------------ | ------------ |
-| 1 | Flappy bird game using Genetics Algorithm | 960122680012 |
-| 2 | Recurrent Neural Network (RNN) | 960122680007, 960122681005 |
-| 3 | Support Vector Machines (SVM) | 9712268102, 9612268101, 960122680113 |
-| 4 | Generative Adversarial Networks (GAN) | 960122680003, 960122680017, 960122681003 |
-| 5 | Radial Basis Network (RBN) | 960122680039, 960122680006, 960122681017 |
-| 6 | Long/Short Term Memory (LSTM) | 970122680014 |
-| 7 | Deep Convolutional Network (DCN) | 960122680033, 960122680041 |
-| 8 | Liquid State Machine (LSM) | 960122680074, 9612268100 |
-| 9 | Deep Residual Network (DRN) | 960122681004, 960122681015, 950122680034 |
-| 10 | Inception Architecture for Image Classification | 960122680119 |
-| 11 | Self-Organizing Map (SOM) | 950122610006 |
+| 1 | [Flappy bird game using Genetics Algorithm](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G01-Genetic-Algorithm-Flappy-Bird "Flappy bird game using Genetics Algorithm") | 960122680012 |
+| 2 | [Recurrent Neural Network (RNN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G02-Recurrent-Neural-Network "Recurrent Neural Network (RNN)") | 960122680007, 960122681005 |
+| 3 | [Support Vector Machines (SVM)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G03-Support-Vector-Machine "Support Vector Machines (SVM)") | 9712268102, 9612268101, 960122680113 |
+| 4 | [Generative Adversarial Networks (GAN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G04-Generative-Adversarial-Networks "Generative Adversarial Networks (GAN)") | 960122680003, 960122680017, 960122681003 |
+| 5 | [Radial Basis Network (RBN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G05-Radial-Basis-Network "Radial Basis Network (RBN)") | 960122680039, 960122680006, 960122681017 |
+| 6 | [Long/Short Term Memory (LSTM)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G06-Long-Short-Term-Memory "Long/Short Term Memory (LSTM)") | 970122680014 |
+| 7 | [Deep Convolutional Network (DCN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G07-Deep-Convolutional-Network "Deep Convolutional Network (DCN)") | 960122680033, 960122680041 |
+| 8 | [Liquid State Machine (LSM)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G08-Liquid-State-Machine "Liquid State Machine (LSM)") | 960122680074, 9612268100 |
+| 9 | [Deep Residual Network (DRN)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G09-Deep-Residual-Network "Deep Residual Network (DRN)") | 960122681004, 960122681015, 950122680034 |
+| 10 | [Inception Architecture for Image Classificatio](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G10-Inception-Architecture-Image-Classification "Inception Architecture for Image Classificatio")n | 960122680119 |
+| 11 | [Self-Organizing Map (SOM)](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G11-Self-Organizing-Map "Self-Organizing Map (SOM)") | 950122610006 |
