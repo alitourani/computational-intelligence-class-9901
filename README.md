@@ -1,4 +1,4 @@
-# Computational Intelligence 9901
+# Computational Intelligence 9901 (Fall 2020)
 
 This page contains the course materials and final projects, developed at the **University of Guilan** for **Computational Intelligence** course (code 12262111) in **Fall 2020** semester. The course presents an introduction to the methods and algorithms of Computational Intelligence and focuses on the functional concepts and applicable approaches. The topics covered in this course include Soft computing, Artificial Neural Networks (ANNs), Fuzzy logic, Evolutionary computation, and swarm intelligence. We will study the structure of famous CI methods, such as ant colony, genetic algorithm, perceptron network, and deep learning.
 
